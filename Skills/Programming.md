@@ -1,29 +1,29 @@
 ## Programming fundamental concepts
 
-- Concepts
-  - Model
-  - Modeling
+- Concepts ~
+  - Model ~
+  - Modeling ~
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
+  - Algorithm ~
+  - Syntax ~
+  - Semantics ~
   - Abstraction
-  - Paradigm
+  - Paradigm ~
   - Programm
-  - Programming paradigm
-  - Programming language
+  - Programming paradigm ~
+  - Programming language +
   - Contract
-  - Module
-  - Library
+  - Module ~
+  - Library ~
   - Package
   - Component
-  - Framework
-  - Platform
+  - Framework ~
+  - Platform ~
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering ~
   - Decomposition
   - Control flow
   - Data flow
@@ -31,27 +31,27 @@
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
-- Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+- Syntax and concepts +
+  - Value +
+  - Identifier +
+  - Variable +
+  - Constant +
+  - Scalar +
+  - Literal +
+  - Expression +
   - Heap
-  - Function
+  - Function +
   - Procedure
   - Method
   - Class
-  - Prototype
+  - Prototype +
   - Event
-  - Type
+  - Type +
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
+  - Conditions +
+  - Loops +
   - Assignment
   - Regular expression
   - Interface
@@ -59,14 +59,14 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case +
+  - Snake case +
+  - Kebab case +
   - Trailing commas
   - Return early
   - Fail-fast
-- Types
-  - Primitive types
+- Types ~
+  - Primitive types ~
   - Reference types
   - Type systems
   - Strong typing
@@ -80,7 +80,7 @@
   - Type inference
   - Covariance
   - Contravariance
-- Functions
+- Functions ~
   - Signature
   - Argument
   - Parameter
@@ -104,14 +104,14 @@
   - Monoid
   - Generator
   - Coroutine
-- Data structures
-  - Array
-  - Structure
+- Data structures ~
+  - Array ~
+  - Structure ~
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
+  - Object ~
+  - Collection ~
   - Set
   - Hash table
   - Linked list
@@ -141,8 +141,8 @@
   - URL
   - URN
   - URI
-- Process and tools
-  - Compiler
+- Process and tools ~
+  - Compiler ~
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -217,8 +217,8 @@
   - Linux
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS +
+  - Windows +
   - Real-time OS
   - Embedded OS
 - Standards

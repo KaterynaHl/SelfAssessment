@@ -37,8 +37,8 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
+  - HTTP/HTTPS support ~
+  - WebSockets for real-time communication ~
   - TCP/UDP networking
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
@@ -77,8 +77,8 @@
   - Containerization with Docker
   - Kubernetes for orchestration
   - Serverless computing
-- C# Development
-  - C# syntax and language fundamentals
+- C# Development ~
+  - C# syntax and language fundamentals ~
   - Advanced C# features (LINQ, async/await, delegates, events)
   - Reflection and dynamic programming
   - Data types and collections
@@ -103,7 +103,7 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals ~
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage
@@ -119,8 +119,8 @@
 - Mobile development
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
-- Game development
-  - Unity
+- Game development ~
+  - Unity ~
 - Web development
   - ASP.NET Core
   - Blazor

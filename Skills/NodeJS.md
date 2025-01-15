@@ -10,7 +10,7 @@
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
-- Modularity, layers and dependencies
+- Modularity, layers and dependencies ~
   - CommonJS modules
   - ECMAScript modules
   - Module `node:module`
@@ -25,7 +25,7 @@
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
-- Environment
+- Environment ~
   - Command line arguments
   - Node.js CLI
   - Process-based permissions

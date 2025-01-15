@@ -1,10 +1,10 @@
 ## JavaScript
 
-- Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+- Language +
+  - `Object`+
+  - `Function` +
+  - `Boolean` +
+  - `Number` +
   - `BigInt`
   - `String`
   - `Symbol`
@@ -58,17 +58,17 @@
   - Static class fields
   - Private class fields
   - Private class methods
-- Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+- Statements +
+  - `if` +
+  - `while` +
+  - `do..while` +
+  - `for` +
+  - `for..in` +
+  - `for..of` +
   - `for await`
   - `throw`
-  - `break`
-  - `continue`
+  - `break` +
+  - `continue` +
   - `import`
   - `export`
   - `label`
@@ -78,9 +78,9 @@
   - `extends`
   - `with`
   - `new`
-- Functions
-  - Arrow function
-  - Async function
+- Functions ~
+  - Arrow function ~
+  - Async function ~
   - Function declaration
   - Function expression
   - Default parameters
@@ -89,16 +89,16 @@
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
-- Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+- Data structures ~
+  - `Array` ~
+  - `Map` ~
+  - `Set` ~
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
   - Mixins
   - `Object.assign`
-- Standard classes and namespaces
+- Standard classes and namespaces ~
   - `Proxy`
   - `RegExp`
   - `Date`

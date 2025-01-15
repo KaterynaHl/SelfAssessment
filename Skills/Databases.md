@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types ~
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -35,7 +35,7 @@
   - Materialized views
   - Replications
   - Virtualization
-- SQL
+- SQL ~
   - `SELECT`
   - `INSERT`
   - `UPDATE`
@@ -84,7 +84,7 @@
   - SQLite
   - DynamoDB
   - Firebase
-- Data engineering
+- Data engineering ~
   - Data warehousing
   - Business intelligence
   - Big data

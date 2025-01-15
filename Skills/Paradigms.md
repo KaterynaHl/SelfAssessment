@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
-- Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
+- Theory ~
+  - Procedural programming ~
+  - Imperative programming ~
+  - Structured programming ~
+  - Non-structured programming ~
+  - Functional programming ~
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming ~
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
+  - Asynchronous programming ~
+  - Parallel programming ~
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -26,7 +26,7 @@
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
-- OOP basics
+- OOP basics ~
   - Constructor
   - Operator `new`
   - Static method
@@ -36,12 +36,12 @@
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance
+  - Inheritance ~
   - Parent class
-  - Polymorphism
+  - Polymorphism ~
   - Abstract class
   - Interface
-  - Encapsulation
+  - Encapsulation ~
   - Hidden class
   - Object form
   - Instance
@@ -63,7 +63,7 @@
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
-- Patterns
+- Patterns ~
   - Singleton
   - Factory Method
   - Abstract Factory
