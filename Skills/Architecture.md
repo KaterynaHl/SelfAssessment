@@ -1,6 +1,6 @@
 ## Architecture
 
-- Application structure
+- Application structure ~
   - Separation of concerns
   - Inversion of Control
   - Dependency Injection

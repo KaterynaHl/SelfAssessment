@@ -1,6 +1,6 @@
 ## Asynchronous programming
 
-- Theory
+- Theory ~
   - Event loop
   - `try..catch`
   - Non-blocking
@@ -21,12 +21,12 @@
   - Actor Model
   - Thread
   - Process
-- Async contracts
-  - Callbacks
-  - Callback-last-error-first
+- Async contracts ~
+  - Callbacks ~
+  - Callback-last-error-first ~
   - Thenable
-  - Promise
-  - Async/await
+  - Promise ~
+  - Async/await ~
   - Future
   - Deferred
   - Sync generator
@@ -58,7 +58,7 @@
   - Semaphore
   - Mutex
   - Spin Lock
-- JavaScript & Node.js specific
+- JavaScript & Node.js specific +
   - Timers
   - `setImmediate`
   - `nextTick`

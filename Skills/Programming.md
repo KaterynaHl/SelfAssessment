@@ -1,72 +1,72 @@
 ## Programming fundamental concepts
 
-- Concepts ~
+- Concepts \*
   - Model ~
   - Modeling ~
   - Subject domain
-  - Algorithm ~
+  - Algorithm \*
   - Syntax ~
   - Semantics ~
   - Abstraction
   - Paradigm ~
   - Programm
   - Programming paradigm ~
-  - Programming language +
+  - Programming language \*
   - Contract
   - Module ~
-  - Library ~
+  - Library \*
   - Package
   - Component
-  - Framework ~
+  - Framework +
   - Platform ~
-  - Source code
+  - Source code \*
   - Object code
   - Machine code
   - Microcode
-  - Software engineering ~
+  - Software engineering \*
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
-  - KISS principle
-- Syntax and concepts +
-  - Value +
-  - Identifier +
-  - Variable +
-  - Constant +
-  - Scalar +
-  - Literal +
-  - Expression +
-  - Heap
-  - Function +
-  - Procedure
-  - Method
-  - Class
-  - Prototype +
-  - Event
-  - Type +
-  - Flag
+  - KISS principle \*
+- Syntax and concepts \*
+  - Value \*
+  - Identifier \*
+  - Variable \*
+  - Constant \*
+  - Scalar \*
+  - Literal \*
+  - Expression \*
+  - Heap \*
+  - Function \*
+  - Procedure \*
+  - Method \*
+  - Class \*
+  - Prototype \*
+  - Event ~
+  - Type \*
+  - Flag ~
   - Lexical scope
   - Code block
-  - Conditions +
-  - Loops +
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case +
-  - Snake case +
-  - Kebab case +
+  - Conditions \*
+  - Loops \*
+  - Assignment \*
+  - Regular expression \*
+  - Interface \*
+  - Namespaces \*
+  - Call stack \*
+  - Naming conventions \*
+  - Coding conventions \*
+  - Camel case \*
+  - Snake case \*
+  - Kebab case \*
   - Trailing commas
   - Return early
   - Fail-fast
-- Types ~
-  - Primitive types ~
+- Types \*
+  - Primitive types \*
   - Reference types
   - Type systems
   - Strong typing
@@ -80,10 +80,10 @@
   - Type inference
   - Covariance
   - Contravariance
-- Functions ~
-  - Signature
-  - Argument
-  - Parameter
+- Functions \*
+  - Signature \*
+  - Argument \*
+  - Parameter \*
   - Pure function
   - Lambda expression
   - Side effects
@@ -104,17 +104,17 @@
   - Monoid
   - Generator
   - Coroutine
-- Data structures ~
-  - Array ~
-  - Structure ~
+- Data structures \*
+  - Array \*
+  - Structure \*
   - Record
   - Enum
   - Instance
-  - Object ~
-  - Collection ~
+  - Object \*
+  - Collection \*
   - Set
-  - Hash table
-  - Linked list
+  - Hash table ~
+  - Linked list ~
   - Doubly list
   - Unrolled list
   - Circular list
@@ -141,8 +141,8 @@
   - URL
   - URN
   - URI
-- Process and tools ~
-  - Compiler ~
+- Process and tools \*
+  - Compiler \*
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,20 +157,20 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger \*
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring \*
+  - Code review \*
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git \*
+  - Github \*
   - Docker
   - Kubernetes
   - GCC
   - LLVM
-- Antipatterns
+- Antipatterns +
   - Magic numbers
   - Hard code
   - Soft code

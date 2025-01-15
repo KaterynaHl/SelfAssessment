@@ -1,26 +1,26 @@
 ## JavaScript
 
-- Language +
-  - `Object`+
-  - `Function` +
-  - `Boolean` +
-  - `Number` +
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
+- Language \*
+  - `Object`\*
+  - `Function` \*
+  - `Boolean` \*
+  - `Number` \*
+  - `BigInt` \*
+  - `String` \*
+  - `Symbol` \*
+  - `Infinity` \*
+  - `NaN` \*
+  - `undefined` \*
+  - `null` \*
+  - `this` \*
+  - `instanceof` ~
+  - `...spread` ~
+  - `...rest` ~
+  - `typeof` \*
+  - Destructuring +
+  - Generators +
+  - Iterators \*
+  - Async generator +
   - Async iterator
   - Chaining
   - Optional chaining
@@ -31,18 +31,18 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - `prototype` \*
+  - Equality operators \*
+  - Logical operators \*
+  - Logical Assignment \*
+  - Bitwise operators ~
+  - Ternary operator ~
+  - `void` +
   - `yield`
-  - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
+  - `await` +
+  - Template literal +
+  - Strict mode \*
+  - Hoisting ~
   - `delete`
   - `in`
   - `super`
@@ -58,39 +58,39 @@
   - Static class fields
   - Private class fields
   - Private class methods
-- Statements +
-  - `if` +
-  - `while` +
-  - `do..while` +
-  - `for` +
-  - `for..in` +
-  - `for..of` +
-  - `for await`
-  - `throw`
-  - `break` +
-  - `continue` +
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
-- Functions ~
-  - Arrow function ~
-  - Async function ~
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
+- Statements \*
+  - `if` \*
+  - `while` \*
+  - `do..while` \*
+  - `for` \*
+  - `for..in` \*
+  - `for..of` \*
+  - `for await` +
+  - `throw` +
+  - `break` \*
+  - `continue` \*
+  - `import` +
+  - `export` +
+  - `label` \*
+  - `try..catch` \*
+  - `switch` +
+  - `class` \*
+  - `extends` +
+  - `with` +
+  - `new` +
+- Functions \*
+  - Arrow function \*
+  - Async function +
+  - Function declaration \*
+  - Function expression \*
+  - Default parameters +
+  - Functional object +
+  - `Function.prototype.call` ~
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
-- Data structures ~
-  - `Array` ~
+  - `return` \*
+- Data structures \*
+  - `Array` \*
   - `Map` ~
   - `Set` ~
   - `WeakMap`
@@ -106,17 +106,17 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON` ~
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` ~
   - `console`
   - Timers
-- Infrastructure
+- Infrastructure \*
   - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - Node.js \*
+  - npm \*
+  - prettier \*
+  - MDN \*
   - TC39
