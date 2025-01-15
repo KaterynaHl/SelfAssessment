@@ -1,6 +1,6 @@
 ## Node.js and backend
 
-- Internals and concepts
+- Internals and concepts ~
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
@@ -25,7 +25,7 @@
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
-- Environment ~
+- Environment \*
   - Command line arguments
   - Node.js CLI
   - Process-based permissions
@@ -59,7 +59,7 @@
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
-- Network
+  - Network: 👂 heard
   - Endpoint throttling
   - ALPN
   - SNI callback
@@ -109,7 +109,7 @@
   - Object-Relational Mapping
   - CRUD
   - DTO
-- Error handling and debugging
+- Error handling and debugging \*
   - `Error`
   - `error.cause`
   - `error.code`
