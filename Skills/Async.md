@@ -22,11 +22,11 @@
   - Thread
   - Process
 - Async contracts ~
-  - Callbacks ~
-  - Callback-last-error-first ~
+  - Callbacks: 👂 heard
+  - Callback-last-error-first: 👂 heard
   - Thenable
-  - Promise ~
-  - Async/await ~
+  - Promise: 👂 heard
+  - Async/await: 👂 heard
   - Future
   - Deferred
   - Sync generator

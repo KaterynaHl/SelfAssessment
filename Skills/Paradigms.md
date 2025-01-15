@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory +
-  - Procedural programming +
-  - Imperative programming ~
-  - Structured programming +
-  - Non-structured programming ~
-  - Functional programming +
+  - Procedural programming: 🎓 known
+  - Imperative programming: 👂 heard
+  - Structured programming: 🎓 known
+  - Non-structured programming: 👂 heard
+  - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming ~
+  - Object-oriented programming: 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming ~
-  - Parallel programming ~
+  - Asynchronous programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -36,12 +36,12 @@
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance ~
+  - Inheritance: 👂 heard
   - Parent class
-  - Polymorphism ~
+  - Polymorphism: 👂 heard
   - Abstract class
   - Interface
-  - Encapsulation ~
+  - Encapsulation: 👂 heard
   - Hidden class
   - Object form
   - Instance

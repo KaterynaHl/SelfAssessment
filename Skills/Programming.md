@@ -1,72 +1,72 @@
 ## Programming fundamental concepts
 
 - Concepts \*
-  - Model ~
-  - Modeling ~
+  - Model: 👂 heard
+  - Modeling: 👂 heard
   - Subject domain
-  - Algorithm \*
-  - Syntax ~
-  - Semantics ~
+  - Algorithm \: 🖐️ used
+  - Syntax: 👂 heard
+  - Semantics: 👂 heard
   - Abstraction
-  - Paradigm ~
+  - Paradigm: 👂 heard
   - Programm
-  - Programming paradigm ~
-  - Programming language \*
+  - Programming paradigm: 👂 heard
+  - Programming language \: 🖐️ used
   - Contract
-  - Module ~
-  - Library \*
+  - Module: 👂 heard
+  - Library \: 🖐️ used
   - Package
   - Component
-  - Framework +
-  - Platform ~
-  - Source code \*
+  - Framework: 🎓 known
+  - Platform: 👂 heard
+  - Source code \: 🖐️ used
   - Object code
   - Machine code
   - Microcode
-  - Software engineering \*
+  - Software engineering \: 🖐️ used
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
-  - KISS principle \*
+  - KISS principle \: 🖐️ used
 - Syntax and concepts \*
-  - Value \*
-  - Identifier \*
-  - Variable \*
-  - Constant \*
-  - Scalar \*
-  - Literal \*
-  - Expression \*
-  - Heap \*
-  - Function \*
-  - Procedure \*
-  - Method \*
-  - Class \*
-  - Prototype \*
-  - Event ~
-  - Type \*
-  - Flag ~
+  - Value \: 🖐️ used
+  - Identifier \: 🖐️ used
+  - Variable \: 🖐️ used
+  - Constant \: 🖐️ used
+  - Scalar \: 🖐️ used
+  - Literal \: 🖐️ used
+  - Expression \: 🖐️ used
+  - Heap \: 🖐️ used
+  - Function \: 🖐️ used
+  - Procedure \: 🖐️ used
+  - Method \: 🖐️ used
+  - Class \: 🖐️ used
+  - Prototype \: 🖐️ used
+  - Event: 👂 heard
+  - Type \: 🖐️ used
+  - Flag: 👂 heard
   - Lexical scope
   - Code block
-  - Conditions \*
-  - Loops \*
-  - Assignment \*
-  - Regular expression \*
-  - Interface \*
-  - Namespaces \*
-  - Call stack \*
-  - Naming conventions \*
-  - Coding conventions \*
-  - Camel case \*
-  - Snake case \*
-  - Kebab case \*
+  - Conditions \: 🖐️ used
+  - Loops \: 🖐️ used
+  - Assignment \: 🖐️ used
+  - Regular expression \: 🖐️ used
+  - Interface \: 🖐️ used
+  - Namespaces \: 🖐️ used
+  - Call stack \: 🖐️ used
+  - Naming conventions \: 🖐️ used
+  - Coding conventions \: 🖐️ used
+  - Camel case \: 🖐️ used
+  - Snake case \: 🖐️ used
+  - Kebab case \: 🖐️ used
   - Trailing commas
   - Return early
   - Fail-fast
 - Types \*
-  - Primitive types \*
+  - Primitive types \: 🖐️ used
   - Reference types
   - Type systems
   - Strong typing
@@ -81,9 +81,9 @@
   - Covariance
   - Contravariance
 - Functions \*
-  - Signature \*
-  - Argument \*
-  - Parameter \*
+  - Signature \: 🖐️ used
+  - Argument \: 🖐️ used
+  - Parameter \: 🖐️ used
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,16 +105,16 @@
   - Generator
   - Coroutine
 - Data structures \*
-  - Array \*
-  - Structure \*
+  - Array \: 🖐️ used
+  - Structure \: 🖐️ used
   - Record
   - Enum
   - Instance
-  - Object \*
-  - Collection \*
+  - Object \: 🖐️ used
+  - Collection \: 🖐️ used
   - Set
-  - Hash table ~
-  - Linked list ~
+  - Hash table: 👂 heard
+  - Linked list: 👂 heard
   - Doubly list
   - Unrolled list
   - Circular list
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools \*
-  - Compiler \*
+  - Compiler \: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger \*
+  - Debugger \: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring \*
-  - Code review \*
+  - Refactoring \: 🖐️ used
+  - Code review \: 🖐️ used
   - Exception
   - Unittesting
-  - git \*
-  - Github \*
+  - git \: 🖐️ used
+  - Github \: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
@@ -217,8 +217,8 @@
   - Linux
   - Unix
   - BSD
-  - MacOS +
-  - Windows +
+  - MacOS: 🎓 known
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards

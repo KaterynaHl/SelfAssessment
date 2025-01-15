@@ -59,7 +59,7 @@
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
-  - Network ~
+  - Network: 👂 heard
   - Endpoint throttling
   - ALPN
   - SNI callback
